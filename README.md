@@ -1,7 +1,7 @@
 # Near-Surface Imaging of Urban Environments Using Distributed Acoustic Sensing (DAS)
 This repository accompanies the following paper. If you use this implementation, please cite our paper:
 
-> - Sun, X., Fratta, D., Guo, Z., Wang, H., Cunningham, E., Rui, S. (2026). Near-Surface Imaging of Urban Environments Using Distributed Acoustic Sensing (DAS) and Finite Element Method (FEM) Model. Geophysical Journal International. doi.org/10.1093/gji/ggag164
+> - Sun, X., Fratta, D., Guo, Z., Wang, H., Cunningham, E., Rui, S. (2026). Near-Surface Imaging of Urban Environments Using Distributed Acoustic Sensing (DAS) and Finite Element Method (FEM) Model. Geophysical Journal International. [DOI](https://doi.org/10.1093/gji/ggag164)
 
 ## Note:
 
